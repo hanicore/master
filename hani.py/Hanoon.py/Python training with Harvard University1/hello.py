@@ -188,9 +188,21 @@ Its meaning is greater than
 معناه اكبر من او يساوي
 It means greater than or equal to
 
-3 
+3 <
+معناه اصغر من
+It means smaller than
 
+4 <=
+معناه اصغر من او يساوي
+It means less than or equal to
 
+5 ==
+تعني يساوي (للمقارنة بين قيمتين).
+It means equal (to compare two values).
+
+6 !=
+تعني لا يساوي
+It means not equal
 
 
 
