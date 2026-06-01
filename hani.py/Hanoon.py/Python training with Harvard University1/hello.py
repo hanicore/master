@@ -251,9 +251,15 @@ else:
 
 
 
+# نفس الكود باستخدام or اذا كنا نهتمين بمعرفة اذا ما كانت القيميتين متساويتين
 
+x = int(input("What's x? "))
+y = int(input("What's y? "))
 
-
+if x < y or x > y:
+    print("x is not equal to y")
+else:
+    print("x is equal to y")
 
 
 
