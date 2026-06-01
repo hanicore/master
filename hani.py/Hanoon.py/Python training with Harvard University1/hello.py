@@ -271,10 +271,16 @@ The difference between if, elif, else
 🟥else: إذا كل الشروط غلط نفّذ هذا
 """
 
+# نفس الكود باستخدام "!=" و بطريقة ابسط
+# The same code using "!=ط but in a simpler way
 
+x = int(input("What's x? "))
+y = int(input("What's y? "))
 
-
-
+if x != y:
+    print("x is not equal to y")
+else:
+    print("x is equal to y")
 
 
 
