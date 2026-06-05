@@ -273,6 +273,17 @@ else:
     print("x is equal to y")
 
 
+# كود يحسب درجات الطلاب باستخدام "and"
+# Code that calculates student grades using "and"
+
+
+score=int(input(""))
+
+
+
+
+
+
 
 
 
