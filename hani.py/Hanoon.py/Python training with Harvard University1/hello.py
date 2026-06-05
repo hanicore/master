@@ -276,9 +276,18 @@ else:
 # كود يحسب درجات الطلاب باستخدام "and"
 # Code that calculates student grades using "and"
 
+score=int(input("score: "))
 
-score=int(input(""))
-
+if score>=90 and score <=100 :
+    print("score: a")
+elif score>=80 and score <90 :
+    print("score: b")
+elif score>=70 and score<80 :
+    print("score: c")
+elif score>=60 and score<70 :
+    print("score: d")
+else :
+    print("score: f")
 
 
 
